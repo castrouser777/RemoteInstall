@@ -1,3 +1,0 @@
-@echo off
-echo This Script will install the desired printer and make it the computer default printer, not user default, use it wisely...
-pause
